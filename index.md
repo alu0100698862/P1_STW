@@ -4,7 +4,7 @@
 
 Para la instalación de *NodeJS* hemos accedido a la página web: [nodeJS](https://nodejs.org/en/ "nodeJS")
 
-Seguidamente, nos descargamos el software, lo configuramos y procedemos a comprobar que todo está correcto. Ejecutamos el command prompt:
+Seguidamente, nos descargamos el software, lo configuramos y procedemos a comprobar que todo está correcto. Ejecutamos el **command prompt**:
 
 ![command prompt](images/nodeJS.png "Command prompt")
 
@@ -22,21 +22,21 @@ Procedemos a instalar *express*. Para ello, accedemos a la página web:
 
 ## Instalación de Atom
 
-*Atom* es un editor con el que podemos escribir tanto texto plano como un lenguaje de programación. Para su instalación, entramos en su página web: [atom](https://atom.io/ "atom") y, descargamos el software.
+*Atom* es un editor con el que podemos escribir tanto *texto plano* como un *lenguaje de programación*. Para su instalación, entramos en su página web: [atom](https://atom.io/ "atom") y, descargamos el software.
 Una vez descargado, procedemos a su instalación y, ejecutamos el programa que tendrá un aspecto como este:
 
 ![atom](images/atom.png "atom")
 
 ## Instalación de GitHub Desktop
 
-*GitHub Desktop* es un software que nos permite el uso de GitHub desde nuestro escritorio. Para ello, necesitamos acceder a la página web [github desktop](https://desktop.github.com/ "github"). Una vez descargado, procedemos a ejecutar el programa en el que tendremos que introducir nuestro correo electrónico y nuestra contraseña con la que ingresamos en nuestra cuenta de GitHub. El programa tendrá un aspecto como el siguiente:
+*GitHub Desktop* es un software que nos permite el uso de **GitHub** desde nuestro escritorio. Para ello, necesitamos acceder a la página web [github desktop](https://desktop.github.com/ "github"). Una vez descargado, procedemos a ejecutar el programa en el que tendremos que introducir nuestro correo electrónico y nuestra contraseña con la que ingresamos en nuestra cuenta de GitHub. El programa tendrá un aspecto como el siguiente:
 
 ![github](images/github.png "github")
 
 
 ## Creación de una cuenta en Cloud9
 
-*Cloud9* es un IDE en la nube que nos permite desarrollar proyectos en diferentes lenguajes y Frameworks de desarrollo. Para poder usar este IDE, necesitamos crearnos una cuenta accediendo a la página web de [Cloud9](https://c9.io/ "Cloud9").
+*Cloud9* es un **IDE** en la nube que nos permite desarrollar proyectos en diferentes lenguajes y Frameworks de desarrollo. Para poder usar este **IDE**, necesitamos crearnos una cuenta accediendo a la página web de [Cloud9](https://c9.io/ "Cloud9").
 Una vez la hayamos creado, nos aparecerá nuestro espacio de trabajo y múltiples opciones como pueden ser:
 * Menú
 * Espacios de trabajo
@@ -45,3 +45,12 @@ Una vez la hayamos creado, nos aparecerá nuestro espacio de trabajo y múltiple
 Siendo la visualización la siguiente:
 
 ![c9](images/c9.png "c9")
+
+Y, la interfaz para el desarrollo de un proyecto la siguiente:
+
+![c9-1](images/c9-1.png "c9-1")
+
+
+## Desarrollo con Markdown
+
+*Markdown* es un lenguaje de marcado ligero que nos permite 

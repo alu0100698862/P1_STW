@@ -29,4 +29,19 @@ Una vez descargado, procedemos a su instalación y, ejecutamos el programa que t
 
 ## Instalación de GitHub Desktop
 
-*GitHub Desktop* es un software que nos permite el uso de GitHub desde nuestro escritorio. Para ello, necesitamos acceder a la página web [github desktop](https://desktop.github.com/ "github"). Una vez descargado, procedemos a ejecutar el programa en el que tendremos que introducir nuestro correo electrónico y nuestra contraseña con la que ingresamos en nuestra cuenta de GitHub
+*GitHub Desktop* es un software que nos permite el uso de GitHub desde nuestro escritorio. Para ello, necesitamos acceder a la página web [github desktop](https://desktop.github.com/ "github"). Una vez descargado, procedemos a ejecutar el programa en el que tendremos que introducir nuestro correo electrónico y nuestra contraseña con la que ingresamos en nuestra cuenta de GitHub. El programa tendrá un aspecto como el siguiente:
+
+![github](images/github.png "github")
+
+
+## Creación de una cuenta en Cloud9
+
+*Cloud9* es un IDE en la nube que nos permite desarrollar proyectos en diferentes lenguajes y Frameworks de desarrollo. Para poder usar este IDE, necesitamos crearnos una cuenta accediendo a la página web de [Cloud9](https://c9.io/ "Cloud9").
+Una vez la hayamos creado, nos aparecerá nuestro espacio de trabajo y múltiples opciones como pueden ser:
+* Menú
+* Espacios de trabajo
+* Repositorios
+
+Siendo la visualización la siguiente:
+
+![c9](images/c9.png "c9")

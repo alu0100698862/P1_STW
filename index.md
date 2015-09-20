@@ -1,5 +1,7 @@
 # Tutorial de Instalación de Herramientas
 
+El siguiente tutorial tiene como objetivo introducir las distintas herramientas con las que trabajaremos y desarrollaremos nuestros proyectos.
+
 ## Instalación de NodeJS
 
 Para la instalación de *NodeJS* hemos accedido a la página web: [nodeJS](https://nodejs.org/en/ "nodeJS")
@@ -53,4 +55,13 @@ Y, la interfaz para el desarrollo de un proyecto la siguiente:
 
 ## Desarrollo con Markdown
 
-*Markdown* es un lenguaje de marcado ligero que nos permite 
+*Markdown* es un lenguaje de marcado ligero con el que hemos desarrollado esta página. Para ello, hemos utilizado los diferentes recursos nombrados anteriormente como pueden ser *Atom* y *GitHub*. Como recursos de Markdown se han utilizado los siguientes:
+
+- Enlaces  
+- Imágenes
+- Negritas y Cursivas
+- Encabezados
+
+Para ello, hemos seguido las pautas puestas en Wikipedia para Markdown. El enlace es el siguiente: [Markdown](https://es.wikipedia.org/wiki/Markdown "Markdown")
+
+![Markdown](images/markdown.png "markdown")

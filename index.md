@@ -28,3 +28,5 @@ Una vez descargado, procedemos a su instalación y, ejecutamos el programa que t
 ![atom](images/atom.png "atom")
 
 ## Instalación de GitHub Desktop
+
+*GitHub Desktop* es un software que nos permite el uso de GitHub desde nuestro escritorio. Para ello, necesitamos acceder a la página web [github desktop](https://desktop.github.com/ "github"). Una vez descargado, procedemos a ejecutar el programa en el que tendremos que introducir nuestro correo electrónico y nuestra contraseña con la que ingresamos en nuestra cuenta de GitHub

@@ -65,3 +65,5 @@ Y, la interfaz para el desarrollo de un proyecto la siguiente:
 Para ello, hemos seguido las pautas puestas en Wikipedia para Markdown. El enlace es el siguiente: [Markdown](https://es.wikipedia.org/wiki/Markdown "Markdown")
 
 ![Markdown](images/markdown.png "markdown")
+
+Tutorial desarrollador por *Carlota Lázaro Hernández*

@@ -22,4 +22,9 @@ Procedemos a instalar *express*. Para ello, accedemos a la página web:
 
 ## Instalación de Atom
 
-*Atom* es un editor con el que podemos escribir tanto texto plano como un lenguaje de programación. Para su instalación, entramos en su página web: [atom](https://atom.io/ "atom") y, descargamos el software 
+*Atom* es un editor con el que podemos escribir tanto texto plano como un lenguaje de programación. Para su instalación, entramos en su página web: [atom](https://atom.io/ "atom") y, descargamos el software.
+Una vez descargado, procedemos a su instalación y, ejecutamos el programa que tendrá un aspecto como este:
+
+![atom](images/atom.png "atom")
+
+## Instalación de GitHub Desktop

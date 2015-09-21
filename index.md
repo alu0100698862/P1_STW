@@ -8,11 +8,11 @@ Para la instalación de *NodeJS* hemos accedido a la página web: [nodeJS](https
 
 Seguidamente, nos descargamos el software, lo configuramos y procedemos a comprobar que todo está correcto. Ejecutamos el **command prompt**:
 
-![command prompt](images/nodeJS.png "Command prompt")
+![command prompt](images/nodeJS.PNG "Command prompt")
 
 Para comprobar que *npm* funciona, escribimos lo siguiente en una consola:
 
-![npm](images/npm.png "npm")
+![npm](images/npm.PNG "npm")
 
 ## Instalación de express
 
@@ -20,20 +20,20 @@ Procedemos a instalar *express*. Para ello, accedemos a la página web:
 [express](http://expressjs.com/ "express") y hacemos uso del siguiente comando:
 *npm install express --save*
 
-![express](images/express.png "express")
+![express](images/express.PNG "express")
 
 ## Instalación de Atom
 
 *Atom* es un editor con el que podemos escribir tanto *texto plano* como un *lenguaje de programación*. Para su instalación, entramos en su página web: [atom](https://atom.io/ "atom") y, descargamos el software.
 Una vez descargado, procedemos a su instalación y, ejecutamos el programa que tendrá un aspecto como este:
 
-![atom](images/atom.png "atom")
+![atom](images/atom.PNG "atom")
 
 ## Instalación de GitHub Desktop
 
 *GitHub Desktop* es un software que nos permite el uso de **GitHub** desde nuestro escritorio. Para ello, necesitamos acceder a la página web [github desktop](https://desktop.github.com/ "github"). Una vez descargado, procedemos a ejecutar el programa en el que tendremos que introducir nuestro correo electrónico y nuestra contraseña con la que ingresamos en nuestra cuenta de GitHub. El programa tendrá un aspecto como el siguiente:
 
-![github](images/github.png "github")
+![github](images/github.PNG "github")
 
 
 ## Creación de una cuenta en Cloud9
@@ -46,11 +46,11 @@ Una vez la hayamos creado, nos aparecerá nuestro espacio de trabajo y múltiple
 
 Siendo la visualización la siguiente:
 
-![c9](images/c9.png "c9")
+![c9](images/c9.PNG "c9")
 
 Y, la interfaz para el desarrollo de un proyecto la siguiente:
 
-![c9-1](images/c9-1.png "c9-1")
+![c9-1](images/c9-1.PNG "c9-1")
 
 
 ## Desarrollo con Markdown
@@ -64,6 +64,6 @@ Y, la interfaz para el desarrollo de un proyecto la siguiente:
 
 Para ello, hemos seguido las pautas puestas en Wikipedia para Markdown. El enlace es el siguiente: [Markdown](https://es.wikipedia.org/wiki/Markdown "Markdown")
 
-![Markdown](images/markdown.png "markdown")
+![Markdown](images/markdown.PNG "markdown")
 
 Tutorial desarrollador por *Carlota Lázaro Hernández*

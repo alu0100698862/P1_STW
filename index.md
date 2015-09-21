@@ -40,9 +40,9 @@ Una vez descargado, procedemos a su instalación y, ejecutamos el programa que t
 
 *Cloud9* es un **IDE** en la nube que nos permite desarrollar proyectos en diferentes lenguajes y Frameworks de desarrollo. Para poder usar este **IDE**, necesitamos crearnos una cuenta accediendo a la página web de [Cloud9](https://c9.io/ "Cloud9").
 Una vez la hayamos creado, nos aparecerá nuestro espacio de trabajo y múltiples opciones como pueden ser:
-* Menú
-* Espacios de trabajo
-* Repositorios
+- Menú
+- Espacios de trabajo
+- Repositorios
 
 Siendo la visualización la siguiente:
 

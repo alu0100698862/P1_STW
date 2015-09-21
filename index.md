@@ -8,7 +8,7 @@ Para la instalación de *NodeJS* hemos accedido a la página web: [nodeJS](https
 
 Seguidamente, nos descargamos el software, lo configuramos y procedemos a comprobar que todo está correcto. Ejecutamos el **command prompt**:
 
-![command prompt](images/nodeJS.png "Command prompt")
+![](images/nodeJS.png )
 
 Para comprobar que *npm* funciona, escribimos lo siguiente en una consola:
 

@@ -1,35 +1,59 @@
 #header {
-
-  padding-bottom: 250px;
+  padding-bottom: 150px;
   background-image: url('../img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-
 }
 
 #name {
-
   text-align: center;
-  font-family:Alice, Georgia, serif;
-
+  font-family: Philosopher;
+  font-size: 25px;
+  /*color: #9A123D;*/
+  color: black;
 }
 
-body {
-
-  background-color: #efebe9;
+#subject {
+  text-align: center;
+  font-family: Philosopher;
+  font-size: 20px;
+  /*color: #9A123D;*/
 }
-
 
 .circular {
-  width: 150px;
-  height: 150px;
+  width: 125px;
+  height: 125px;
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
   background-position: center;
   display:block;
   margin:auto;
+}
+
+#encabezado {
+  font-family: serif;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+/*  color: #9A123D; */
+  color: black;
+}
+
+#content {
+  text-align: center;
+}
+
+#footer {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: serif;
+}
+
+p {
+  padding-top: 25px;
 }

@@ -1,4 +1,35 @@
 #header {
 
-  
+  padding-bottom: 250px;
+  background-image: url('../img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+#name {
+
+  text-align: center;
+  font-family:Alice, Georgia, serif;
+
+}
+
+body {
+
+  background-color: #efebe9;
+}
+
+
+.circular {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background-position: center;
+  display:block;
+  margin:auto;
 }
